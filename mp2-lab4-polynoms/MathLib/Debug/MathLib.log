@@ -1,0 +1,14 @@
+﻿  MathLib.cpp
+  Polynom.cpp
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(91): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(102): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(105): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(117): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(122): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(139): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(144): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(158): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(239): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\zver\source\repos\lab4\mathlib\polynom.cpp(268): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  MathLib.vcxproj -> C:\Users\Zver\source\repos\lab4\Debug\MathLib.lib
